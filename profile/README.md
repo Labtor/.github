@@ -4,9 +4,9 @@
 
 
 ## 👥 Researcher
-| <img src="https://avatars.githubusercontent.com/u/80632060?v=4" width=80> | <img src="https://avatars.githubusercontent.com/u/82090641?v=4" width=80> | <img src="https://avatars.githubusercontent.com/u/89118999?v=4" width=80> |
-|:----:|:----:|:----:|
-| BeomJin | KyungHyeon | SonJaeMin |
+| <img src="https://avatars.githubusercontent.com/u/80632060?v=4" width=80> | <img src="https://avatars.githubusercontent.com/u/82090641?v=4" width=80> | <img src="https://avatars.githubusercontent.com/u/89118999?v=4" width=80> | <img src="https://avatars.githubusercontent.com/u/85563909?v=4" width=80> |
+|:----:|:----:|:----:|:----:|
+| BeomJin | KyungHyeon | SonJaeMin | SangHyeon |
 
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLabtor&count_bg=%23121212&title_bg=%230038FF&icon=&icon_color=%23E7E7E7&title=visiters&edge_flat=false"/></a>
 </p>
